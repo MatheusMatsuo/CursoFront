@@ -1,0 +1,9 @@
+document.getElementby(Id,querySelector,etc)('id')
+
+var.length //tamanho do array
+
+var.push(x) //aumenta em 1 o tamanho do array e adiciona o x na posição aumentada
+
+var.indexOf(x) // retorna se existe o x no array e se existir em qual posição ele se encontra
+
+var.sort() // retorna o array ordenado

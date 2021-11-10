@@ -1,0 +1,9 @@
+form {
+    background-color: aqua;
+    width: 70%;
+    height: 70%;
+}
+
+form #img{
+    margin: 5% 5%;
+}
